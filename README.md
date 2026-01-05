@@ -9,6 +9,9 @@ Most logistics datasets are either proprietary (unavailable) or overly simplifie
 
 More details about the dataset can be found in the original source *[1]*.
 
+## High Level Architecture of Data Warehouse
+![high level architecture](./docs/high-level-architecture.png)
+
 ---
 ## Reference:
 *[1]* [*Yogape Rodriguez (2025), Logistics Operations Database*](https://www.kaggle.com/datasets/yogape/logistics-operations-database)
